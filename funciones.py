@@ -55,7 +55,5 @@ class DataFrameTable(tk.Frame):
             editable=False)
         #Mostramos la tabla
         self.table.show()
-        #root = tk.Tk()
-        #table = DataFrameTable(root, df_ventas_ciudad)
-        #root.mainloop()
+
      
